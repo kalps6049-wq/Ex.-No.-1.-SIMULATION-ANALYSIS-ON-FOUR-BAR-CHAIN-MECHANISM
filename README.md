@@ -4,7 +4,7 @@ i9# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## AIM:
 
-###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
+###    To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
 In a four-link mechanism, the crank AB rotates at 36 rad/sec. The lengths of the links are AB=200mm, BC=400mm and AD=600mm. AD is the fixed li and AD=600mm. AD is the fixed link. At the instant when AB is at right angle to AD. Determine the velocity and acceleration at (i) the midpoint of link BC, (ii) a point on link CD, 100 mm from the pin connecting the links CD and AD.  
 
@@ -146,7 +146,7 @@ VELOCITY:
  <img width="841" height="362" alt="Screenshot 2026-03-19 134225" src="https://github.com/user-attachments/assets/1f72ec39-f513-4766-bf62-a6ef95c5975e" />
  <img width="797" height="386" alt="Screenshot 2026-03-19 134233" src="https://github.com/user-attachments/assets/4280c4f3-7123-4da8-b76c-71f2efdeccdc" />
 ## OUTPUT:
-         Thus,the displacement & velocity analysis for the given four bar chain mechanism has been verified.
+ ###      Thus,the displacement & velocity analysis for the given four bar chain mechanism has been verified.
 
 
 
