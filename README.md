@@ -50,7 +50,8 @@ Velocity and acceleration of a point on CD located 100 mm from D
 
                
 
-1. Draw the Space Diagram
+1. Draw the Space Diagram:
+
 First draw the configuration of the mechanism.
 Draw the fixed link AD = 600 mm horizontally.
 From point A, draw AB = 200 mm such that AB is perpendicular to AD.
@@ -60,7 +61,8 @@ Mark the midpoint M of BC.
 Mark point P on CD, which is 100 mm from D.
 This diagram represents the actual position of the mechanism at that instant.
 
-2. Velocity Analysis
+2. Velocity Analysis:
+3. 
 Step 1: Velocity of Point B
 The crank AB rotates with angular velocity 36 rad/s.
 The linear velocity of point B is calculated by:
