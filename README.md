@@ -144,7 +144,9 @@
  <img width="826" height="485" alt="Screenshot 2026-03-19 134214" src="https://github.com/user-attachments/assets/55b83e0e-9640-4d05-820d-e64cb6f9bf7f" />
  <img width="841" height="362" alt="Screenshot 2026-03-19 134225" src="https://github.com/user-attachments/assets/1f72ec39-f513-4766-bf62-a6ef95c5975e" />
  <img width="797" height="386" alt="Screenshot 2026-03-19 134233" src="https://github.com/user-attachments/assets/4280c4f3-7123-4da8-b76c-71f2efdeccdc" />
+ 
 ## OUTPUT:
+
  ###      Thus,the displacement & velocity analysis for the given four bar chain mechanism has been verified.
 
 
